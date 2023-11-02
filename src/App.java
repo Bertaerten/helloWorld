@@ -11,7 +11,7 @@ public class App extends PApplet {
     }
 
     public void setup() {
-        background(0);
+        background(50);
     }
 
     public void draw() {
